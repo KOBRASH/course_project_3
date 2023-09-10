@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Cache and temporary files
+__pycache__/
+*.pyc
+
+
+# Local settings
+.env
+
+# Data and temporary files
+data/
+temp/
+
+
+
+
+
+
+
+
+Regenerate
